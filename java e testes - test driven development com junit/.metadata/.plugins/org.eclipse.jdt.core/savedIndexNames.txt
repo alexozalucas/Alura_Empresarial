@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/alex/Downloads/ALURA/3° testes automatizados/.metadata/.plugins/org.eclipse.jdt.core
+2259463670.index
+4160090206.index
+1065731307.index
+200544704.index
